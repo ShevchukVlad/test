@@ -5,6 +5,11 @@ public class Mail {
         System.out.println("\t\tJ\t\t\t\t\t\t\tA");
         System.out.println("J\t\tJ");
         System.out.println("J\t\tJ");
+        System.out.println("J\t\tJ");
+        System.out.println("J\t\tJ");
+        System.out.println("J\t\tJ");
+        System.out.println("J\t\tJ");
+        System.out.println("J\t\tJj");
         System.out.println("J\t\tJj");
     }
 }
